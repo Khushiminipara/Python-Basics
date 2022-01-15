@@ -119,6 +119,6 @@
 
 # Khushi Minipara
 # 20CS036
-# Github Link = https://github.com/Khushiminipara/Python-Basics.git
+# Github Link = https://khushiminipara.github.io/Python-Basics/
 
 

@@ -29,7 +29,7 @@
 
 # d. Write a Python program to convert a tuple to a string.
 
-# tuple = ('p','r','i','y','a')
+# tuple = ('k','h','u','s','h','i')
 # str = ''.join(tuple)
 # print(str)
 
@@ -37,7 +37,7 @@
 
 # e. Write a Python program to find the length of a tuple.
 
-# tuple = ('p','r','i','y','a')
+# tuple = ('k','h','u','s','h','i')
 # print(len(tuple))
 
 # tup = tuple("Khushi Minipara")
